@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@500&display=swap');
+*{
+margin: 0;
+padding: 0;
+}
+body {
+color: white;
+overflow-x: hidden;
+background: black;
+}
+a {
+text-decoration: none;
+}
+.ul {
+list-style-type: none;
+padding: 0;
+margin: 0;
+float: left;
+width: 90%;
+}
+.ul li {
+font-family: 'Heebo', sans-serif;
+display: flex;
+align-items: center;
+position: relative;
+margin-top: 15px;
+left: 5%;
+height: 80px;
+border: 1px solid white;
+border-radius: 8px;
+}
+.text h1 {
+font-family: 'Heebo', sans-serif;
+font-size: 16px;
+}
+.text span {
+font-family: 'Heebo', sans-serif;
+font-size: 12px;
+color: #878787;
+}
+.get {
+position: absolute;
+display: flex;
+justify-content: flex-end;
+width: 10%;
+left: 85%;
+}
+.ul li a {
+position: sticky;
+font-family: 'Heebo', sans-serif;
+fon-weight: 300;
+text-decoration: none;
+background: grey;
+border-radius: 18px;
+font-size: 13px;
+padding: 5px 10px 6px 10px;
+}
+.ul li img{
+border-radius:10px;
+margin-right: 10px;
+margin-left: 10px;
+width: 55px;
+}
+.box{
+position: absolute;
+left: 2%;
+top: 1%;
+background: #2f3640;
+height: 30px;
+border-radius: 40px;
+padding: 10px;}
+.box:hover > #search-txt{width: 200px;top: 50px;}
+.box:hover > .sebtn{background: white;}
+.sebtn{
+color: #e84118;
+float: right;
+width: 30px;
+height: 30px;
+border-radius: 50%;
+background: #2f3640;
+display: flex;
+justify-content: center;
+align-items: center;
+transition: 0.4s;
+text-decoration: none;}
+#search-txt{
+border: none;
+background: none;
+outline: none;
+float: left;
+padding: 0;
+color: white;
+font-size: 16px;
+transition: 0.4s;   
+line-height: 30px;
+width: 0px;}
