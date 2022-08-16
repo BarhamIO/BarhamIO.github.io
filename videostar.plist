@@ -23,13 +23,13 @@
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://alone-ios.netlify.app/icon.png</string>
+					<string> https://archive.org/download/967-aa-1-e-5-8-c-77-432-e-aa-35-f-4-bf-1726-a-4-b-7/967-aa-1-e-5-8-c-77-432-e-aa-35-f-4-bf-1726-a-4-b-7_archive.torrent</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-  				<string>com.alone.videostar</string>
+  				<string>com.cydiainfo.videostar</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
