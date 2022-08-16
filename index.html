@@ -1,0 +1,134 @@
+<!DOCTYPE html>	
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui, viewport-fit=cover">
+<meta name="author" content="Dilan">
+<title>Cydiainfo</title>
+<link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+</head>
+<body>
+<center>
+<h1>BarhamIOS</h1>
+<div class="box">
+<input type="text" id="search-txt" onkeyup="search()" placeholder="Search...">
+<a class="sebtn" href="#">
+<i class="fas fa-search"></i>
+</a>
+</div>
+</center>
+<br>
+<br>
+<br>
+<br>
+<ul class="ul">
+
+<li class="li">
+  <img src="img/Videostar.png">
+  <div class="text">
+    <h1>Video Star | V8.3.2</h1>
+    <span>Premium</span>
+  </div>
+  <div class="get"><a style="background: green;" href="https://is.gd/Cydiainfovideostar">GET</a></div>
+</li>
+<li class="li">
+  <img src="https://app.kurd-source.com/img/Uncover.png">
+  <div class="text">
+    <h1>Unc0ver | v8.0.2</h1>
+    <span>jailbreak</span>
+  </div>
+  <div class="get"><a style="background: red;"href="https://is.gd/Cydiainfouncover">GET</a></div>
+</li>
+<li class="li">
+  <img src="img/videostarpro.png">
+  <div class="text">
+    <h1>Video star | V8.3.2</h1>
+    <span>pro</span>
+  </div>
+  <div class="get"><a style="background: green;" href="https://is.gd/Cydiainfovideostar">GET</a></div>
+</li>
+<li class="li">
+  <img src="img/Inshot.png">
+  <div class="text">
+    <h1>Inshot | V1.61.1</h1>
+    <span>Premium</span>
+  </div>
+  <div class="get"><a style="background: white;" href="https://t.me/BarhamIPA/4">IPA</a></div>
+</li>
+<li class="li">
+  <img src="img/maskgun.png">
+  <div class="text">
+    <h1>Maskgun | V3.303</h1>
+    <span>Hack</span>
+  </div>
+  <div class="get"><a style="background: white;" href="https://t.me/BarhamIPA/51">IPA</a></div>
+<li class="li">
+  <img src="img/snakebricks.png">
+  <div class="text">
+    <h1>snake bricks | V1.3.3</h1>
+    <span>Game Hacked</span>
+  </div>
+  <div class="get"><a style="background: white;" href="https://t.me/BarhamIPA/46">IPA</a></div>
+</li>
+<li class="li">
+  <img src="img/driftmaxpro.png">
+  <div class="text">
+    <h1>Drift max pro | V2.4.96</h1>
+    <span>Hack</span>
+  </div>
+  <div class="get"><a style="background: white;" href="https://t.me/BarhamIPA/54">IPA</a></div>
+</li>
+<li class="li">
+  <img src="img/tiktok.png">
+  <div class="text">
+    <h1>Tiktok | V25.4.0</h1>
+    <span>pro</span>
+  </div>
+  <div class="get"><a style="background: white;" href="https://t.me/BarhamIPA/55">IPA</a></div>
+</li>
+<li class="li">
+  <img src="img/bulletforce.png">
+  <div class="text">
+    <h1>Bullet Force | V1.89.0</h1>
+    <span>Hack</span>
+  </div>
+  <div class="get"><a style="background: white;" href="https://t.me/BarhamIPA/56">IPA</a></div>
+</li>
+<li class="li">
+  <img src="img/lastday.png">
+  <div class="text">
+    <h1>Last Day | V1.19.4</h1>
+    <span>Hack</span>
+  </div>
+  <div class="get"><a style="background: white;" href="https://t.me/BarhamIPA/57">IPA</a></div>
+</li>
+<li class="li">
+  <img src="img/artofwar.png">
+  <div class="text">
+    <h1>Art of war | V6.3.2</h1>
+    <span>Hack</span>
+  </div>
+  <div class="get"><a style="background: white;" href="https://t.me/BarhamIPA/58">IPA</a></div>
+</li>
+</ul>
+<script>
+function search() {
+
+  input = document.getElementById('search-txt');
+  filter = input.value.toUpperCase();
+  li = document.getElementsByClassName('li');
+
+  for (i = 0; i < li.length; i++) {
+    h1 = li[i].getElementsByTagName("h1")[0];
+    txtValue = h1.textContent || h1.innerText;
+    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+      li[i].style.display = "";
+    } else {
+      li[i].style.display = "none";
+    }
+  }
+}
+</script>
+</body>
+</html>
