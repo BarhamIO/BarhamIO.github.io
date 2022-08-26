@@ -4,11 +4,19 @@
     "sourceURL": "https://cydiainfo.tk/source.json",
     "apps": [
         {
+            "name": "Video star Pro",
+            "version": "10.8.3",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/videostarpro.png",
+            "downloadURL": "https://archive.org/download/kurd-source/videostarpro.kurd-source.ipa"
+        },
+{
             "name": "App cake",
             "version": "4.5.1",
             "versionDate": "2022-07-11T19:00:00+08:00",
             "versionDescription": "",
-            "iconURL": "https://cydiainfo.tk/img/videostarpro.png",
+            "iconURL": "https://cydiainfo.tk/img/unc0ver.png",
             "downloadURL": "https://archive.org/download/kurd-source/videostarpro.kurd-source.ipa"
         },
         {
