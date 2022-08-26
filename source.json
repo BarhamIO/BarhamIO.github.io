@@ -1,0 +1,23 @@
+{
+    "name": "BarhamIOS ViP",
+    "identifier": "com.BarhamIOS.eisgn",
+    "sourceURL": "https://cydiainfo.tk/source.json",
+    "apps": [
+        {
+            "name": "App cake",
+            "version": "4.5.1",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/videostarpro.png",
+            "downloadURL": "https://archive.org/download/kurd-source/videostarpro.kurd-source.ipa"
+        },
+        {
+            "name": "YoutubeDLEasy",
+            "version": "17.25.1",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://app.kurd-source.com/img/youtube.png",
+            "downloadURL": "url"
+        }
+    ]
+}
