@@ -27,7 +27,30 @@
             "iconURL": "https://cydiainfo.tk/img/messenger.png",
             "downloadURL": "https://archive.org/download/messenger.kurd-source/messenger.kurd-source.ipa"
         },
-
+{
+            "name": "Tiktok unicron",
+            "version": "19.3.0",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/tiktok.png",
+            "downloadURL": "https://cdn.kurd-source.tk/ipa/tiktok.kurd-source.ipa"
+        },
+{
+            "name": "Unc0ver",
+            "version": "8.0.2",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/unc0ver.png",
+            "downloadURL": "https://archive.org/download/kurd-s0urce/uncover.kurd-sourcee.ipa"
+        },
+{
+            "name": "Scarlet",
+            "version": "1.0",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/scarlet.png",
+            "downloadURL": "https://archive.org/download/kurd-s0urce/Scarlet.kurd-source.ipa"
+        },
         {
             "name": "YoutubeDLEasy",
             "version": "17.25.1",
