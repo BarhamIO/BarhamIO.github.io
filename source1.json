@@ -51,6 +51,38 @@
             "iconURL": "https://cydiainfo.tk/img/scarlet.png",
             "downloadURL": "https://archive.org/download/kurd-s0urce/Scarlet.kurd-source.ipa"
         },
+{
+            "name": "kinemaster",
+            "version": "5.2.11",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/kinemaster.png",
+            "downloadURL": "https://archive.org/download/kurd-s0urce/KineMaster.kurd-source.ipa"
+        },
+{
+            "name": "Picsart",
+            "version": "2.1.0",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/picsart.png",
+            "downloadURL": "https://archive.org/download/kurd-s0urce/PicsArt.kurd-source.ipa"
+        },
+{
+            "name": "PPSSPP",
+            "version": "1.13.1",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/ppsspp.png",
+            "downloadURL": "https://archive.org/download/kurd-s0urce/PPSSPP.kurd-source.ipa"
+        },
+{
+            "name": "Pythonista 3",
+            "version": "3.3",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/pythonista3.png",
+            "downloadURL": "https://cdn.kurd-source.tk/ipa/pythonista3.kurd-source.ipa"
+        },
         {
             "name": "YoutubeDLEasy",
             "version": "17.25.1",
