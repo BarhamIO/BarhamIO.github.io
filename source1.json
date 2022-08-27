@@ -83,6 +83,22 @@
             "iconURL": "https://cydiainfo.tk/img/pythonista3.png",
             "downloadURL": "https://cdn.kurd-source.tk/ipa/pythonista3.kurd-source.ipa"
         },
+{
+            "name": "Facebook wolf",
+            "version": "2.1.0",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/facebook.png",
+            "downloadURL": "https://cdn.kurd-source.tk/ipa/facebook.kurd-source.ipa"
+        },
+{
+            "name": "lightroom",
+            "version": "7.5.0",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/lightroom.png",
+            "downloadURL": "https://archive.org/download/kurd-s0urce/Lightroom.kurd-source.ipa"
+        },
         {
             "name": "YoutubeDLEasy",
             "version": "17.25.1",
