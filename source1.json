@@ -99,6 +99,22 @@
             "iconURL": "https://cydiainfo.tk/img/lightroom.png",
             "downloadURL": "https://archive.org/download/kurd-s0urce/Lightroom.kurd-source.ipa"
         },
+{
+            "name": "chimera",
+            "version": "4.5.1",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/chimera.png",
+            "downloadURL": "https://cdn.kurd-source.tk/ipa/chimera.kurd-source.ipa"
+        },
+{
+            "name": "Djay pro",
+            "version": "4.0.6",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/djaypro.png",
+            "downloadURL": "https://archive.org/download/kurd-s0urce/djay.kurd-source.ipa"
+        },
         {
             "name": "YoutubeDLEasy",
             "version": "17.25.1",
