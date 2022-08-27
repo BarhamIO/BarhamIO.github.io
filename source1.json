@@ -16,8 +16,112 @@
             "version": "4.5.1",
             "versionDate": "2022-07-11T19:00:00+08:00",
             "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/appcake.png",
+            "downloadURL": "https://cdn.kurd-source.tk/ipa/appcake.kurd-source.ipa"
+        },
+{
+            "name": "Messenger",
+            "version": "1.7.0",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/messenger.png",
+            "downloadURL": "https://archive.org/download/messenger.kurd-source/messenger.kurd-source.ipa"
+        },
+{
+            "name": "agar.io",
+            "version": "2.21.1",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/agario.png",
+            "downloadURL": "https://archive.org/download/kurd-s0urce/Agar.io.kurd-source.ipa"
+        },
+{
+            "name": "chimera",
+            "version": "4.5.1",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/chimera.png",
+            "downloadURL": "https://cdn.kurd-source.tk/ipa/chimera.kurd-source.ipa"
+        },
+{
+            "name": "Djay pro",
+            "version": "4.0.6",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/djaypro.png",
+            "downloadURL": "https://archive.org/download/kurd-s0urce/djay.kurd-source.ipa"
+        },
+{
+            "name": "Facebook wolf",
+            "version": "2.1.0",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/facebook.png",
+            "downloadURL": "https://cdn.kurd-source.tk/ipa/facebook.kurd-source.ipa"
+        },
+{
+            "name": "lightroom",
+            "version": "7.5.0",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/lightroom.png",
+            "downloadURL": "https://archive.org/download/kurd-s0urce/Lightroom.kurd-source.ipa"
+        },
+{
+            "name": "kinemaster",
+            "version": "5.2.11",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/kinemaster.png",
+            "downloadURL": "https://archive.org/download/kurd-s0urce/KineMaster.kurd-source.ipa"
+        },
+{
+            "name": "Picsart",
+            "version": "2.1.0",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/picsart.png",
+            "downloadURL": "https://archive.org/download/kurd-s0urce/PicsArt.kurd-source.ipa"
+        },
+{
+            "name": "PPSSPP",
+            "version": "1.13.1",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/ppsspp.png",
+            "downloadURL": "https://archive.org/download/kurd-s0urce/PPSSPP.kurd-source.ipa"
+        },
+{
+            "name": "Pythonista 3",
+            "version": "3.3",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/pythonista3.png",
+            "downloadURL": "https://cdn.kurd-source.tk/ipa/pythonista3.kurd-source.ipa"
+        },
+{
+            "name": "Tiktok unicron",
+            "version": "19.3.0",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/tiktok.png",
+            "downloadURL": "https://cdn.kurd-source.tk/ipa/tiktok.kurd-source.ipa""
+        },
+{
+            "name": "Unc0ver",
+            "version": "8.0.2",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
             "iconURL": "https://cydiainfo.tk/img/unc0ver.png",
-            "downloadURL": "https://archive.org/download/kurd-source/videostarpro.kurd-source.ipa"
+            "downloadURL": "https://archive.org/download/kurd-s0urce/uncover.kurd-sourcee.ipa"
+        },
+{
+            "name": "Scarlet",
+            "version": "1.0",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/scarlet.png",
+            "downloadURL": "https://archive.org/download/kurd-s0urce/Scarlet.kurd-source.ipa"
         },
         {
             "name": "YoutubeDLEasy",
@@ -25,7 +129,7 @@
             "versionDate": "2022-07-11T19:00:00+08:00",
             "versionDescription": "",
             "iconURL": "https://app.kurd-source.com/img/youtube.png",
-            "downloadURL": "url"
+            "downloadURL": "https://archive.org/download/youtubedleasy.kurd-source/youtubedleasy.kurd-source.ipa"
         }
     ]
 }
