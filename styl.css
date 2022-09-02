@@ -3,7 +3,45 @@
 * {
    margin: 0;
    padding 0;
+   box-sizing: border-box;
 }
+
+ul {
+   list-style: none;
+}
+
+nav{ 
+ height: 17%;
+ width: 35%;
+  background: #111;
+ font-size: 20px;
+}
+
+nav ul li{
+width: 100%
+background: #111;
+float: right;
+text-align: center;
+line-height 55px;
+height: 30px;
+}
+ 
+nav ul li a{
+text-decoration: none;
+color: white;
+}
+
+nav ul li ul{
+width:100%;
+position: absolute;
+display: block;
+}
+nav ul li a:active {
+background-color: cyan;
+color: black;
+opacity: 0,8;
+}
+
 
 body{
    margin-top: 10px;
@@ -46,7 +84,7 @@ body{
 
 .container h2{
    color: white;
-   font-family: "poppins"
+   font-family: "Poppins";
    font-size: 40px;
    font-style: bold;
 }
@@ -63,3 +101,4 @@ body{
    text-decoration: none;
    font-family: "Poppisn";
 }
+
