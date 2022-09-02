@@ -50,3 +50,16 @@ body{
    font-size: 40px;
    font-style: bold;
 }
+
+.container a{
+   margin: 10px;
+   padding: 5px;
+   color: white;
+   text-align: center;
+   font-size: 20px;
+   border: 3px solid black;
+   border-radius: 10px;
+   background-color: black;
+   text-decoration: none;
+   font-family: "Poppisn";
+}
