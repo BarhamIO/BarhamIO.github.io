@@ -10,7 +10,9 @@
 </head>
 <body>
 <center>
-<div id="head"><h1 class="h1">BarhamIOS</h1></div>
+<div id="head">
+<div id="time"></div>
+<a id="a" href="https://barhamios.tk"><h1 class="h1">BarhamIOS</h1></a></div>
 <div class="box">
 <input type="text" id="search-txt" onkeyup="search()" placeholder="Search...">
 <a class="sebtn" href="#">
@@ -321,5 +323,18 @@
   <div class="get"><a href="https://archive.org/download/fnaf-4-2.0.1/FNAF%204%20%282.0.1%29.ipa">IPA</a></div>
 </ul>
 <script src="search.js"></script>
+<script>
+		function printTime(){
+			var date = new Date();
+			var h = date.getHours();
+			var m = date.getMinutes();
+			var s = date.getSeconds();
+			
+			document.getElementById("time").innerHTML  = h - 12 + ":" + m + ":" + s;
+			
+		  }  
+		  
+		 setInterval(printTime,1000);
+		</script>
 </body>
 </html>
