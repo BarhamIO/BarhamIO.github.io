@@ -12,6 +12,20 @@ background: black;
 a {
 text-decoration: none;
 }
+#a{
+color: white;
+}
+#time{
+position: relative;
+left: 30%;
+width: 100px;
+height: 30px;
+align-items: center;
+display: flex;
+justify-content: center;
+font-family: 'Open Sans', sans-serif;
+font-size: 20px;
+}
 #head {
 position: relative;
 width: 100%;
@@ -22,6 +36,7 @@ float: right;
 font-size: 25px;
 font-family: 'Open Sans', sans-serif;
 margin-right: 5%;
+margin-top: 10px;
 }
 .ul {
 list-style-type: none;
