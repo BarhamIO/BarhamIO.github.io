@@ -14,7 +14,8 @@
 <div id="time"></div>
 <a id="a" href="https://barhamios.tk"><h1 class="h1">BarhamIOS</h1></a></div>
 <div class="box">
-<input type="text" id="search-txt" onkeyup="search()" placeholder="Search...">
+
+<input type="search" value="" id="search-txt" onkeyup="search()" onchange="openpage()" placeholder="Search...">
 <a class="sebtn" href="#">
 <i class="fas fa-search"></i>
 </a>
@@ -354,5 +355,36 @@
 		  
 		 setInterval(printTime,1000);
 		</script>
+		<script>
+     function openpage(){
+var x = document.getElementById("search-txt").value;
+
+if(x === "35"){
+window.location.href="https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fremove%2Frequest%2Ftemporary%2F%3F__coig_login%3D1";
+}
+
+if(x === "36"){
+window.location.href="https://accounts.snapchat.com/accounts/login?continue=%2Faccounts%2Fdelete_account";
+}
+
+if(x === "37"){
+window.location.href="https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2Faccount%2Fdelete%3Frefsrc%3Ddeprecated&refsrc=deprecated&_rdr";
+}
+
+if(x === "50"){
+window.location.href="https://apps.apple.com/gb/app/%D9%BE%DB%86%D9%84%DB%8C-12/id1207532290";
+}
+
+if(x === "900"){
+window.location.href="https://udid.tech/?gclid=Cj0KCQjwrs2XBhDjARIsAHVymmR4npCRMvpNUQWU3bULPd67kyRTOJMw2V1HqyQFe59ZwlIgqXNp8rAaAoxpEALw_wcB";
+}
+
+if(x === "80"){
+window.location.href="https://apps.apple.com/gb/app/clarity-wallpaper/id1233738041";
+}
+
+}
+
+</script>
 </body>
 </html>
