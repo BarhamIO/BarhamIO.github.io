@@ -1,0 +1,79 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html{
+  font-size: 10px;
+  font-family: 'Reem Kufi Fun', sans-serif;
+}
+
+section{
+  width: 100%;
+  height: 100vh;
+  color: #fff;
+  background: linear-gradient(-45deg, #B81111, #121987, #B81111);
+  background-size: 400% 400%;
+  position: relative;
+  animation: change 5s ease-in-out infinite;
+}
+
+h1{
+  font-size: 30px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border: 3px solid #000000;
+  border-radius: 30px;
+  top: 50%;
+  color: #E27900;
+  background-color: #000000;
+  box-shadow: 0px 0px 10px 0px #000000;
+  width: 350px;
+  justify-content: center;
+  display: flex;
+  align-items: ceneter;
+  text-align: ceneter;
+  padding: 2px;
+}
+
+.store img{
+  box-shadow: 0px 0px 15px 0px #000000;
+  border-radius: 50%;
+  border: 0px solid #fff;
+}
+
+.store h2{
+  font-size: 20px;
+}
+
+.store button{
+  font-size: 25px;
+  font-family: 'Reem Kufi Fun', sans-serif;
+  background-color: #981B2B;
+  justify-content: center;
+  border: 3px solid #B81111;
+  border-radius: 10px;
+  color: #fff;
+  box-shadow: 0px 0px 10px 0px #000000;
+  align-items: center;
+  text-align: center;
+  width: 150px;
+  padding: 3px 3px;
+  top: 50%;
+  left: 50%;
+}
+
+@keyframes change{
+
+  0%{
+     background-position: 0 50%;
+  }
+  50%{
+     background-position: 100% 50%;
+  }
+  100%{
+     background-position: 0 50%;
+  }
+
+}
