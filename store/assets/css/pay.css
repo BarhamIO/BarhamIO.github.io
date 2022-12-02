@@ -52,6 +52,7 @@ body {
 	box-shadow:  0 15px 25px rgb(0,0,0,0.09);
 	left: 25%;
 	font-family: 'IBM Plex Sans Arabic', sans-serif; 
+        text-decoration: none;
 }
 .fast h3{
 	position: relative;
