@@ -37,7 +37,7 @@ body {
     position: relative;
     left: 110%;
     top: -18px;
-    background: orange;
+    background: red;
     width: 20px;
     height: 20px;
     border-radius: 50%;
@@ -81,10 +81,10 @@ body {
 	padding: 10px 0;
 }
 .product{
-	background: #000;
+	background: #333;
 	color: #fff;
 	border-radius: 10px;
-   box-shadow: 0 0 10px #38aecc;
+   box-shadow: 0 0 10px #fff;
 	height: 120px;
 	display: flex;
 	align-items: center;
