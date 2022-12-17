@@ -23,12 +23,15 @@ body{
   padding: 60px 0;
   gap: 60px;
 }
-.container .header{
+.header a{
   text-align: center;
   color: snow;
   font-family: 'Patrick Hand', cursive;
-  font-size: 35px;
+  font-size: 40px;
   font-weight: 500;
+  padding: 20px;
+  margin: 5px;
+  text-decoration: none;
 }
 .container .box{
   position: relative;
